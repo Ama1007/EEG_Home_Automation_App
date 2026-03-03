@@ -118,7 +118,7 @@ The Smart Home Assistant is a multi-feature Flutter application designed to prov
 
 1. Clone the repository:
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/Ama1007/EEG_Home_Automation_App.git
    cd app
    ```
 
